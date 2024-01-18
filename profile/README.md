@@ -14,7 +14,7 @@
 | PyPDF2| 3.0.1       | https://pypi.org/project/PyPDF2/ |
 
 
-# Usage:thought_balloon:
+# Usage :thought_balloon:
 
 ## Backend :satellite:
 
