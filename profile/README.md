@@ -12,7 +12,6 @@
 | ------------|:-----------: | ---------------------- |
 | Python| 3.11.5      | https://www.python.org/about/gettingstarted/ |
 | PyPDF2| 3.0.1       | https://pypi.org/project/PyPDF2/ |
-|
 
 
 # Usage:thought_balloon:
